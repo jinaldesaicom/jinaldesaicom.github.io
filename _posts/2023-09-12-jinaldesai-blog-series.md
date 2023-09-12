@@ -1,4 +1,4 @@
-## Article Series
+## List of Article Series
 
 List of all article series published on this blog.
 
