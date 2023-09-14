@@ -2,6 +2,7 @@
 
 List of all article series published on this blog.
 
+* [Linux Fundamentals Unleashed](https://jinaldesai.com/linux-fundamentals-series/)
 * [Git Decoded Series](https://jinaldesai.com/git-decoded-series/)
 * [GitHub Actions Demystified Series](https://jinaldesai.com/github-actions-demystified-series/)
 * [Advanced Python Programming](https://jinaldesai.com/advanced-python-programming-series/)
